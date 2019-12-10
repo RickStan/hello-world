@@ -1,2 +1,3 @@
 # hello-world
-My into to GitHub
+My intro to GitHub
+Fixed typo
